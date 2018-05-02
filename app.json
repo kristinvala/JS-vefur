@@ -6,8 +6,8 @@
     "www"
   ],
   "scripts": {},
-  "website": "https://github.com/ueno-llc/starter-kit-universally#readme",
-  "repository": "https://github.com/ueno-llc/starter-kit-universally.git",
+  "website": "https://github.com/kristinvala/JS-vefur/blob/master/README.md",
+  "repository": "https://github.com/kristinvala/JS-vefur",
   "env": {
     "NODE_ENV": {
       "description": "Environment to build",
